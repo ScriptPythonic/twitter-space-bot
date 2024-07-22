@@ -5,9 +5,9 @@
   "private_key": "-----BEGIN PRIVATE KEY----XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\n-----END PRIVATE KEY-----\n",
   "client_email": "Quadri basit Ayomide ",
   "client_id": "XXXXXXXXXXXXX",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_uri": "auth_uri",
+  "token_uri": "token_uri",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pcvb1%40local-market-6b270.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  "client_x509_cert_url": "Add your here ",
+  "universe_domain": "universe_domain"
 }
